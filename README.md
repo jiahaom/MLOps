@@ -7,6 +7,7 @@
 
 🍻 Welcome any feedback or suggestions to ensure this tutorial is as helpful as possible!
 ***
+⚙️ Complete all notebooks --> Backfill the basics --> Add illustrations
 
 🗒️TOC:
 
