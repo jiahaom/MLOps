@@ -11,7 +11,7 @@
 🗒️TOC:
 
 0. Production ML lifecycle
-1. Data Validation
+1.  [Data Validation](https://github.com/jiahaom/MLOps/blob/main/1_Data_Validation.ipynb)
 2. Data Preprocessing
 3. Advanced Data Pipeline
 4. Model Training
