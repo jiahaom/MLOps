@@ -9,7 +9,7 @@
 ***
 ⚙️ Complete all notebooks --> Backfill the basics --> Add illustrations
 
-🗒️TOC:
+🗒️TOC (might will be changed):
 
 0. Production ML lifecycle
 1.  [Data Validation](https://github.com/jiahaom/MLOps/blob/main/1_Data_Validation.ipynb)
